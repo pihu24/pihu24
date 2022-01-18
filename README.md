@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pihu24
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Backend 
 - 💞️ I’m looking to collaborate on front end projects
 
 
